@@ -18,3 +18,9 @@ export default function LetterAvatars() {
   );
 }
 ```
+
+Tasklist:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
